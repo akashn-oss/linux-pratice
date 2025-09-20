@@ -14,7 +14,9 @@ We will first create all the files and directories needed for practice.
 chmod u+x setup.sh
 ./setup.sh
 cd practice_env
-1. File & Directory Navigation
+
+
+Practice Commands:
 
 pwd — Print Working Directory
 Shows where you are.
