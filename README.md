@@ -10,10 +10,11 @@ We will first create all the files and directories needed for practice.
 1. Make sure you are in the folder where `setup.sh` is located.  
 
 2. Make the script executable and run it:
-```bash
+Enter the following commands:
 chmod u+x setup.sh
 ./setup.sh
 cd practice_env
+Now your Practice Environment is Ready Good Job 
 
 
 Practice Commands:
